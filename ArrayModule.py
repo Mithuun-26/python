@@ -1,0 +1,11 @@
+import array
+num1 = array.array('i',[10,20,30,40])
+num2 = array.array('f',[10,20,30,40])
+num3 = array.array('d',[10,20,30,40])
+num4 = array.array('b',[10,-20,30,+40])
+print(num1)
+print(num2)
+print(num3)
+print(num4)
+num5 = array.array('u',[10,20,30,40])
+print(num5)
